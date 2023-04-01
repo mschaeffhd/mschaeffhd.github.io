@@ -7,7 +7,12 @@ author:
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
  Eine kurze Beschreibung meiner Seite.
-  
+ 
+# Mathjax
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+ 
 # Conversion
  markdown: kramdown
  highlighter: rouge
