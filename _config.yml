@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
- Eine kurze Beschreibung meiner Seite.
+ Eine kurze Beschreibung meiner Seite. Geht Mathematik?
  
 # Mathjax
 <script type="text/javascript" id="MathJax-script" async
