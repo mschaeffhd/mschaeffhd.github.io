@@ -102,6 +102,7 @@ term
 - [ ] Contact the media
 
 Wir könnten diese Art von Listen bei Multiple Choice Aufgaben auch verwenden, statt `_..._`. Um das Problem "keine Aufgabe zu übersehen" zu lösen, könnten wir immer das erste Item in der Liste mit den drei Punkten füllen.
+
 `- [...] Write the press release `
 
 `- [ ] Update the website`
@@ -109,6 +110,7 @@ Wir könnten diese Art von Listen bei Multiple Choice Aufgaben auch verwenden, s
  `- [ ] Contact the media `
 
 Korrekt ausgefüllt würde es dann so aussehen:
+
 `- [] Write the press release `
 
 `- [x] Update the website`
