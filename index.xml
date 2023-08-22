@@ -6,7 +6,17 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Aug 2023 17:54:30 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Aug 2023 18:54:30 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zweitereintrag</title>
+      <link>http://example.org/posts/diagramme/</link>
+      <pubDate>Wed, 09 Aug 2023 18:54:30 +0200</pubDate>
+      
+      <guid>http://example.org/posts/diagramme/</guid>
+      <description>#mermaid ## Verlaufsdiagramme
+graph TD; A--&amp;gt;B; A--&amp;gt;C; A--&amp;gt;D; B--&amp;gt;X; C--&amp;gt;X; D--&amp;gt;X; X &amp;lt;-.-&amp;gt; P; P o---o J; Kuchendigramm pie title Haustiere &amp;#34;Hunde&amp;#34; : 86 &amp;#34;Katzen&amp;#34; : 85 &amp;#34;Ratten&amp;#34; : 15 https://mermaid-js.github.io/mermaid/#/flowchart</description>
+    </item>
+    
     <item>
       <title>Erstereintrag</title>
       <link>http://example.org/posts/erstereintrag/</link>
